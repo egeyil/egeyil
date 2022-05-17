@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ege Yildirim!
 - 👀 I’m interested in Full stack web development, music and science in general.
-- 🌱 I’m currently learning React, NodeJS and other back-end stuff. Also getting better at Javascript and css. 
 - 📫 You can reach me by my email egeyildirimdevelopment@gmail.com, my linkedin profile https://www.linkedin.com/in/egeyildev/. 
 
 <!---
