@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ege Yildirim!
-- 👀 I’m interested in Full stack web development, music and science in general.
-- ✨ Check out my Portfolio website www.egeyildirim.com
+- 👋 Hi, I’m Ege Yildirim! I’m a fullstack software engineer.
+- 👀 I'm interested in all things software related, music, and science. 
 - 📫 You can reach me by my email egeyildirimdevelopment@gmail.com, my linkedin profile https://www.linkedin.com/in/egeyildev/. 
 
 <!---
