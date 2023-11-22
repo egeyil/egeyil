@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ege Yildirim! I’m a fullstack software engineer.
-- 👀 I'm interested in all things software related, music, and science. 
+- 👋 Hi, I’m Ege Yildirim! I’m a computer science student, full stack software developer.
+- 👀 I'm interested in all things compsci related, music, and science. 
 - 📫 You can reach me by my email egeyildirimdevelopment@gmail.com, my linkedin profile https://www.linkedin.com/in/egeyildev/. 
